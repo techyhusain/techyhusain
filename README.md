@@ -17,7 +17,7 @@ Languages: Python, Java, JavaScript.
 
 Frameworks: React, Node.js, Django, etc.
 
-Tools: Git, Docker, VS Code, 
+Tools: Git, Docker, VS Code.
 
 
 Get in Touch
